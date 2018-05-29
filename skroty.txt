@@ -1,0 +1,2 @@
+7. View:Toggle Word Wrap alt+z
+8. Join Lines ctrl+j
